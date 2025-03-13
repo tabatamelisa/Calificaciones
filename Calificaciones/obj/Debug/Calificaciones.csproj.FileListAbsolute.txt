@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\22-09\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\Usuario\Desktop\22-09\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Users\Usuario\Desktop\22-09\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Users\Usuario\Desktop\22-09\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\22-09\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\22-09\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\Usuario\Desktop\22-09\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
