@@ -11,7 +11,7 @@ namespace Calificaciones
         static void Main(string[] args)
         {
             //Validar la nota final de un estudiante
-            //Andy Garzón
+            //Tabata Vernaza
             int calificacion;
             do
             {
